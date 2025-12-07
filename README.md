@@ -9,9 +9,9 @@ A secure service for one-time secret sharing with client-side encryption.
 
 ## Features
 
-- **End-to-end encryption** (AES-256-GCM)
+- End-to-end encryption (AES-256-GCM)
 - Encryption key is passed in URL fragment (never sent to server)
-- **One-time use** - secrets are automatically deleted after viewing
+- One-time use - secrets are automatically deleted after viewing
 - Modern UI with dark mode support
 - Responsive design
 - SEO optimized
