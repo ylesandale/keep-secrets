@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Build outputs
+client/.nuxt/
+client/.output/
+client/dist/
+
+# Go
+server/*.db
+server/*.db-shm
+server/*.db-wal
+server/go.sum
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
